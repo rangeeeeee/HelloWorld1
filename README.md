@@ -1,1 +1,1 @@
-this repogitory is just practical for using github
+This repository is just practical for using github
